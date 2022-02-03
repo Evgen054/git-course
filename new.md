@@ -1,3 +1,3 @@
-# git created
+# Git and Github course
 
-lorum text
+crash course for git
